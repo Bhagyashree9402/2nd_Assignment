@@ -12,5 +12,12 @@
 }
 
 .h1{
-    padding-top: 10px;
+    padding-top: 30px;
 }
+.p{
+    margin-top: 20px;
+    padding: 40px;
+  padding-top: 100px;
+  line-height: 40px;
+}
+
